@@ -1,5 +1,5 @@
 [build.environment]
-  HUGO_VERSION = "0.147.8+extended"
+  HUGO_VERSION = "0.147.8"
   HUGO_ENV = "production"
   DART_SASS_VERSION = "1.89.2"
   NODE_VERSION = "22"
