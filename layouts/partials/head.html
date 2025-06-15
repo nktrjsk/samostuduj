@@ -5,7 +5,7 @@
 {{ if page.IsHome }}
 {{ site.Title }}
 {{ else }}
-{{ .Title }} | {{site.Title}}
+{{ page.Title }} | {{site.Title}}
 {{ end}}
 </title>
 {{ $opts := dict
