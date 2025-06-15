@@ -5,6 +5,8 @@ title: 'Úvod do samostudia'
 
 Zdravím, tohle je první díl mého seriálu o samostudiu, ve kterém se budu věnovat jeho představení. Pokusím se vysvětlit, co si pod samostudiem představuji, proč by mělo být normální ho zvažovat jako legitimní variantu, proč si samostudium vybrat místo studia na vysoké škole, a nakonec srovnám formální vzdělávání právě oproti samostudiu.
 
+<!--more-->
+
 # Co je to samostudium?
 
 Každý si pod samostudiem představuje něco jiného, já se ale pokusím představit tu svou, abych předešla případným zbytečným zmatkům. Samostudium bych definovala jako vzdělávání se mimo rámec formální instituce, jako jsou např. školy. Můžou to být ale i jiné akreditované instituce, které mají za úkol poskytovat vzdělání. Vnímám ho jako alternativu ke klasickému školství, které v dnešní době vnímám pro svoje potřeby jako nedostatečné. Taky ho vnímám jako základní možnost, kterou by si měl mít každý právo vybrat, aniž by byl za jeho výběr souzený, ostrakizovaný a jinak znevýhodňovaný.
