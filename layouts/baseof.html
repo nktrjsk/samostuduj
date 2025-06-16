@@ -1,7 +1,11 @@
 <!DOCTYPE html>
-<html lang="cs" class="light">
+<html lang="cs">
 <head>
 {{ partial "head.html" }}
+<script>
+let scheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
+document.documentElement.classList.add(scheme ? "dark" : "light");
+</script>
 </head>
 <body>
     <nav>{{ partial "nav.html" }}</nav>
