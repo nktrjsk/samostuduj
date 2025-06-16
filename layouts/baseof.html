@@ -3,8 +3,23 @@
 <head>
 {{ partial "head.html" }}
 <script>
-let scheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
-document.documentElement.classList.add(scheme ? "dark" : "light");
+if (localStorage.getItem("scheme") === null)
+  localStorage.setItem("scheme", window.matchMedia('(prefers-color-scheme: dark)').matches ? "light" : "dark");
+const scheme = localStorage.getItem("scheme");
+const html = document.documentElement;
+document.documentElement.classList.add(scheme);
+
+function switch_scheme () {
+  if (html.classList.contains('dark')) {
+    html.classList.add('light');
+    html.classList.remove('dark');
+    localStorage.setItem("scheme", "light");
+  } else {
+    html.classList.add('dark');
+    html.classList.remove('light');
+    localStorage.setItem("scheme", "dark");
+  }
+}
 </script>
 </head>
 <body>
