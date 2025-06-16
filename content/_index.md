@@ -11,3 +11,16 @@ _Samostuduj_ je projekt pro lidi, kteří se chtějí vzdělávat stejně důkla
 * **Zaneprázdnění** – Rodiče, obzvlášť ti čerství, ale i vytížení pracující, mají plné ruce práce. Když člověk sotva stíhá každodenní povinnosti, další stres z učení opravdu nepotřebuje. _Samostuduj_ proto nabízí srozumitelné a přehledné materiály, aby bylo studium co nejjednodušší — bez zbytečného tlaku a ztráty času.
 * **Polyhistorové** – Nezajímá tě jen jedna věc. Chceš vědět všechno — od fyziky po filozofii, od historie po programování. A právě proto je samostudium pro tebe. Nemusíš čekat na školní osnovy ani se omezovat na jeden obor. Můžeš si poskládat vlastní plán, přesně tak, jak ti dává smysl. Samostudium je pro zvídavé, kteří chtějí rozumět světu do hloubky i do šířky.
 * **Nenašel jsem se.** – To je v pořádku. Každý má svou vlastní cestu a _Samostuduj_ je tu pro všechny, kdo se chtějí učit po svém. Ať už máš jasný cíl, nebo zatím ještě hledáš. Nejsou tu žádné škatulky, ale prostor učit se tak, jak ti to vyhovuje.
+
+# Cíle _Samostuduj_
+
+- Šířit osvětu o tom, že se jde vzdělávat i bez VŠ a škol obecně
+	- Odstranit stigma spojené se samostudiem, postavit ho na roveň formálnímu vzdělávání
+	- Ukazovat pozitiva, ale i úskalí samostudia
+- Poskytovat materiály pro zmírnění bariéry k samostudiu
+	- Ukázat způsoby, jak se efektivně učit
+	- Poskytovat předpřipravená kurikula ke studiu
+	- Pomáhat s orientací v různých zdrojích, orientací v nich a jejich hodnocení
+- Vytvořit komunitu kolem samostudia
+	- Prezentovat úspěšné příběhy studentů
+	- Propojovat učitele a mentory se studenty
