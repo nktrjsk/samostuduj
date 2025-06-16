@@ -11,6 +11,8 @@ Moc mě těší, že máš zájem pomoci rozvíjet projekt Samostuduj. Pokud mů
 - Psaní informací k oborům
 - Psaní článků v blogu
 - Tvorba obsahu na soc. sítě
+- Jazyková korektura
+- Odborné recenze
 
 ## Grafika, design, UI/UX
 
