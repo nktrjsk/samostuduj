@@ -4,16 +4,53 @@
   box-sizing: border-box;
 }
 
+:root {
+  --light-bg: #fafafa;
+  --light-color: #212121;
+  --dark-bg: #121212;
+  --dark-color: #e0e0e0;
+}
+
 html {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 
+
+  background-color: var(--light-bg);
+  color: var(--light-color);
+
   padding: 2%;
+
+  &.dark {
+    background-color: var(--dark-bg);
+    color: var(--dark-color);
+  }
+
 }
 
+a {
+  color: #64B5F6;
 
+  &:visited {
+    color: #305675;
+  }
+}
+
+nav {
+  a {
+    color: #64B5F6;
+    font-weight: bold;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: var(--dark-bg);
+    color: var(--dark-bg);
+  }
+}
 
 @media screen and (min-width: 1280px) {
   nav {
