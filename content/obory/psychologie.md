@@ -1,6 +1,9 @@
 ---
 title: "Psychologie"
+tags: ["Psychologie"]
 ---
+
+# !! Probíhá práce na stránce
 
 **Psychologie** je věda, která se zabývá studiem myšlení, chování a emocí jedinců a skupin. Snaží se nejen popsat a vysvětlit různé psychické jevy, ale také je předvídat a ovlivňovat. Psychologové používají k těmto účelům různé teorie a výzkumné metody, jako jsou pozorování, experimenty, dotazníky a rozhovory. Tím získávají hlubší pochopení lidské psychiky a vytvoří podklady pro praktické aplikace.
 
@@ -11,17 +14,17 @@ Psychologie se často propojuje s dalšími vědními obory, jako jsou:
 
 <!--more-->
 
-# Praktická využití
+## Praktická využití
 
 Psychologii lze využít jak v každodenním životě, tak i ve spoustě specializovaných odvětvích. V každodenním životě pomůže se zvládáním stresu, pomozuměním sebe sama a ostatním, řešením konfliktů a komunikaci obecně, nebo třeba pro rozpoznání manipulace a obrana před ní. Lze ji využít např. v HR, marketingu, koučování a jiném poradenství, v obchodnictví nebo vzdělávání.
 
-# Mýty v psychologii
+## Mýty v psychologii
 
-## Pokud budu umět psychologii, budu umět vyřešit všechny svoje psychické problémy
+### Pokud budu umět psychologii, budu umět vyřešit všechny svoje psychické problémy
 
 Tak jednoduché to bohužel není. Psychické problémy se adresují těžko, kor sama u sebe. I psychologové dochází za svými vlastními psychology. Na druhou stranu, psychologie může poskytnout dobré nástroje, pomocí kterých si problémů všímat a řešit je. Neměla by to ale být jediná motivace, protože je snadno pomíjivá a zároveň ne nutně dosažitelná. Člověk by měl mít pro psychologii nejlépe vnitřní motivaci, protože jde o náročný obor.
 
-# Dělení psychologie
+## Dělení psychologie
 
 Psychologie se dělí na **základní** a **aplikované obory**. **Základní obory** jsou povahou teoretické, zatímco **aplikované obory** mají sloužit pro aplikaci poznatků do praxe.
 
@@ -33,7 +36,7 @@ V psychologii se také uplatňují různé **psychologické přístupy**, které
 
 <!-- psychologické školy -->
 
-# Historie psychologie
+## Historie psychologie
 
 Až do poloviny 19. stol. byla psychologie součástí filozofie. Za **počátek moderní psychologie** se považuje založení **první psychologické laboratoře** Wilhelmem Wundtem, která měla psychologii postavit na roveň ostatním exaktním vědám tím, že bude využívat experimenty. Buď zkoumal jevy, které jde zkoumat zevnějšku, např. rychlost reakce nebo citlivost na světlo nebo hluk, nebo používal metodu introspekce, kdy testovaný popisuje, co se mu děje v hlavě.
 
@@ -43,8 +46,10 @@ Dalším významným směrem byla **psychoanalýza**, kterou rozvíjel hlavně S
 
 V **druhé polovině 20. století** ale začali behaviorismus nahrazovat jiné, více **kognitivně zaměřené** psychologické školy, jako např. **kognitivní** nebo **tvarová psychologie**.
 
-<!--
-# Psychologické školy
+## Psychologické školy
 
-# Studijní plány
--->
+TBD
+
+## Psychologické přístupy
+
+TBD
