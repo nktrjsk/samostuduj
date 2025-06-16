@@ -18,14 +18,16 @@ html {
   font-style: normal;
 
 
-  background-color: var(--light-bg);
-  color: var(--light-color);
 
   padding: 2%;
 
   &.dark {
     background-color: var(--dark-bg);
     color: var(--dark-color);
+  }
+  &.light {
+    background-color: var(--light-bg);
+    color: var(--light-color);
   }
 
 }
