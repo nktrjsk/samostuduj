@@ -4,4 +4,13 @@
 
 {{ .Content }}
 
+<h2>Související studijní plány</h2>
+
+{{ range .GetTerms "tags" }}
+    {{ $plany := .Site.GetPage "/plany" }}
+    {{ range $plany.Pages }}
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ end }}
+{{ end }}
+
 {{ end }}
