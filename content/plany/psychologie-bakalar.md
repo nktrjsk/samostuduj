@@ -1,6 +1,8 @@
 ---
 title: "Psychologie - Bakalářský studijní plán"
 tags: ["Psychologie"]
+params:
+  author: "Nikita Rjaško"
 ---
 
 # !! Probíhá práce na stránce

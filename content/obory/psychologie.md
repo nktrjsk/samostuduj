@@ -1,6 +1,8 @@
 ---
 title: "Psychologie"
 tags: ["Psychologie"]
+params:
+  author: "Nikita Rjaško"
 ---
 
 # !! Probíhá práce na stránce
