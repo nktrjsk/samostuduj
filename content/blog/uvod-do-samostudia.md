@@ -1,6 +1,7 @@
 ---
 date: '2025-06-15T15:17:31+02:00'
 title: 'Úvod do samostudia'
+tags: ["Samostudium"]
 ---
 
 Zdravím, tohle je první díl mého seriálu o samostudiu, ve kterém se budu věnovat jeho představení. Pokusím se vysvětlit, co si pod samostudiem představuji, proč by mělo být normální ho zvažovat jako legitimní variantu, proč si samostudium vybrat místo studia na vysoké škole, a nakonec srovnám formální vzdělávání právě oproti samostudiu.
