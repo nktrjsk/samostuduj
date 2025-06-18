@@ -7,8 +7,13 @@
 :root {
   --light-bg: #fafafa;
   --light-color: #212121;
+  --light-accent: #0A72C2;
   --dark-bg: #121212;
   --dark-color: #e0e0e0;
+  --dark-accent: #64b5f6;
+  --color: var(--light-color);
+  --bg: var(--light-bg);
+  --accent: var(--light-accent);
 }
 
 html {
@@ -17,33 +22,36 @@ html {
   font-weight: 400;
   font-style: normal;
 
-
+  background-color: var(--bg);
+  color: var(--color);
 
   padding: 2%;
-
-  &.dark {
-    background-color: var(--dark-bg);
-    color: var(--dark-color);
-  }
-  &.light {
-    background-color: var(--light-bg);
-    color: var(--light-color);
-  }
-
 }
+
 @media (prefers-color-scheme: dark) {
-  html {
-    background-color: var(--dark-bg);
-    color: var(--dark-color);
+  :root {
+    --color: var(--dark-color);
+    --bg: var(--dark-bg);
+    --accent: var(--dark-accent);
   }
 }
 
+.dark {
+  --color: var(--dark-color);
+  --bg: var(--dark-bg);
+  --accent: var(--dark-accent);
+}
+.light {
+  --color: var(--light-color);
+  --bg: var(--light-bg);
+  --accent: var(--light-accent);
+}
 
 a {
-  color: #64B5F6;
+  color: var(--accent);
 
   &:visited {
-    color: #305675;
+    color: var(--accent);
   }
 }
 
