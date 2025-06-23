@@ -1,4 +1,6 @@
 ---
-date: '{{ .Date }}'
-title: '{{ .File.ContentBaseName }}'
+date: "{{ .Date }}"
+title: "{{ .File.ContentBaseName }}"
+params:
+  author: ""
 ---
