@@ -1,6 +1,6 @@
 ---
-date: '2025-06-15T15:17:31+02:00'
-title: 'Úvod do samostudia'
+date: "2025-06-15T15:17:31+02:00"
+title: "Úvod do samostudia"
 tags: ["Samostudium"]
 params:
   author: "Nikita Rjaško"
