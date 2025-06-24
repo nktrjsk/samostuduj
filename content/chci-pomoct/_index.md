@@ -35,6 +35,25 @@ Moc mě těší, že máš zájem pomoci rozvíjet projekt Samostuduj. Pokud mů
 
 ---
 
-## Studijní plány
+## Studijní plány, přehled oboru
 
-- Ekonomie (bakalář, magistr)
+- Ekonomie (úvod, bakalář, magistr)
+- Informační technologie - a její podobory
+	- Kyberbezpečnost
+	- Vývoj softwaru
+	- atd.
+- Právo 
+- Filozofie
+- Lékařství 
+- Sociologie
+- Chemie
+- Matematika
+- Inženýrství
+- atd.
+
+### Jazyky
+
+- Japonština 
+- Němčina
+- Angličtina
+- atd. 
