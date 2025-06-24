@@ -1,13 +1,20 @@
-<a id="logo" href="/"><h3>Samostuduj</h3></a>
-
-<a href="/plany">Plány</a>
-<a href="/obory">Obory</a>
-<a href="/blog">Blog</a>
-<a href="/chci-pomoct">Chci&nbsp;pomoct</a>
-<a href="/faq">Často&nbsp;kladené&nbsp;dotazy&nbsp;(FAQ)</a>
-<a href="/o-projektu">O&nbsp;projektu</a>
-<a href="/kontakt">Kontakt</a>
-<a href="#" onclick="switch_scheme()">Light/dark&nbsp;mód</a>
+<div id="menu" onmouseleave='document.querySelector("#o-samostuduj-menu").style.display = "none";'>
+  <div id="main-menu">
+    <a id="logo" href="/"><h3>Samostuduj</h3></a>
+    <a href="/plany">Plány</a>
+    <a href="/obory">Obory</a>
+    <a href="/blog">Blog</a>
+    <a id="o-samostuduj" href="#" onmouseover='document.querySelector("#o-samostuduj-menu").style.display = "unset";' ontouchstart='document.querySelector("#o-samostuduj-menu").style.display = "unset";'>O <i>Samostuduj</i></a>
+    <a href="#" onclick="switch_scheme()">Light/dark&nbsp;mód</a>
+  </div>
+  <div id="o-samostuduj-menu">
+    <a href="/chci-pomoct">Chci&nbsp;pomoct</a>
+    <a href="/faq">Často&nbsp;kladené&nbsp;dotazy&nbsp;(FAQ)</a>
+    <a href="/o-projektu">O&nbsp;projektu</a>
+    <a href="/kontakt">Kontakt</a>
+  </div>
+</div>
 {{/*
 <a href="/komunita">Komunita</a>
+onmouseover='document.querySelector("#o-samostuduj").style.display = "unset";' onmouseout='document.querySelector("#o-samostuduj").style.display = "none";'
 */}}

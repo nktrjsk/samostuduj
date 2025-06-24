@@ -42,6 +42,12 @@ html {
   }
 }
 
+a[href^="http"]::after {
+  content: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="black"><path d="M15.64 7.025h-3.622v-2h7v7h-2v-3.55l-4.914 4.914l-1.414-1.414z"/><path d="M10.982 6.975h-6v12h12v-6h-2v4h-8v-8h4z"/></g></svg>');
+  width: 10px;
+  height: 10px;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --color: var(--dark-color);
@@ -54,6 +60,10 @@ html {
   --color: var(--dark-color);
   --bg: var(--dark-bg);
   --accent: var(--dark-accent);
+
+  a[href^="http"]::after {
+  content: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="white"><path d="M15.64 7.025h-3.622v-2h7v7h-2v-3.55l-4.914 4.914l-1.414-1.414z"/><path d="M10.982 6.975h-6v12h12v-6h-2v4h-8v-8h4z"/></g></svg>');
+  }
 }
 .light {
   --color: var(--light-color);
@@ -126,11 +136,10 @@ input {
 
 }
 
+
 @media screen and (min-width: 1280px) {
   nav {
     display: flex;
-    justify-content: flex-end;
-    align-items: center;
 
     padding: 10px;
 
@@ -138,10 +147,35 @@ input {
 
     #logo {
       margin-right: auto;
+      align-self: left;
+
+      h3 {
+        display: inline;
+      }
     }
 
     a:not(:first-child) {
       margin-left: 20px;
+    }
+    
+    #menu {
+      width: 100%;
+
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+    }
+
+    #main-menu {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+    }
+
+    #o-samostuduj-menu {
+      position: relative;
+      display: none;
     }
   }
 
