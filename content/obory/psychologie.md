@@ -75,7 +75,32 @@ V **druhé polovině 20. století** ale začali behaviorismus nahrazovat jiné, 
 
 ## Aplikované obory psychologie
 
-TBD
+### Klinická psychologie
+
+**Klinická psychologie** se soustředí na využití psychologických poznatků v oblasti zdravotnictví. Jejím hlavním úkolem je diagnostika a léčba duševních poruch u klientů (pacientů). Klinický psycholog často spolupracuje s psychiatry a poskytuje psychoterapeutické služby.
+
+### Pedagogická psychologie
+
+**Pedagogická psychologie** se věnuje zkoumání procesů učení a toho, jaký vliv na ně má různé prostředí, včetně školního i domácího. Tento obor zkoumá, jak se lidé učí, jaká je role motivace a jak individuální rozdíly ovlivňují způsob, jakým lidé získávají nové znalosti a dovednosti. Pedagogická psychologie se zabývá vývojem efektivních metod výuky, které podporují optimální učení. Vytváří a zdokonaluje testy a hodnocení, které pomáhají učitelům objektivně měřit znalosti a schopnosti studentů, přičemž zohledňuje jejich individuální potřeby a charakteristiky
+### Školní psychologie
+
+**Školní psychologie** se zaměřuje na poskytování podpory studentům a řešení problémů souvisejících se vzděláváním v rámci školního prostředí. Tento obor zahrnuje práci s jednotlivci i skupinami žáků s cílem podpořit jejich emocionální, sociální a akademickou pohodu. Školní psychologové řeší problémy s motivací žáků ke studiu. Rovněž hrají klíčovou roli při začleňování žáků s individuálními potřebami, jako jsou děti se speciálními vzdělávacími potřebami nebo nadaní studenti, do běžného školního prostředí. Kromě toho poskytují poradenství a podporu pro učitele a rodiče, aby společně vytvářeli efektivní a podpůrné prostředí, které podporuje optimální rozvoj každého žáka.
+
+### Poradenská psychologie
+
+**Poradenská psychologie** se zaměřuje na poskytování poradenství v různých oblastech, včetně individuálního, manželského, rodinného, školního a pracovního poradenství. Pomáhá lidem, kteří se potýkají s dlouhodobými problémy, ale nedokážou je vyřešit sami. Na rozdíl od [[#Klinická psychologie|klinické psychologie]] se poradenská psychologie často zaměřuje více na preventivní aspekty a osobní růst než na řešení akutních nebo závažných duševních poruch. Cílem je pomoct rozvíjet efektivní strategie pro zvládání životních výzev a zlepšení osobní pohody.
+
+### Psychologie práce
+
+**Psychologie práce** se zabývá vývojem metod pro efektivní nábor zaměstnanců, zlepšováním jejich pohody a prevencí syndromu vyhoření. Zkoumá, jak organizační struktury ve firmách a organizacích ovlivňují pracovní prostředí a mezilidské vztahy na pracovišti. Součástí je také analýza toho, jak pracovní podmínky ovlivňují výkonnost, motivaci a celkové blaho zaměstnanců. Psychologie práce se snaží vytvářet pracovní prostředí, která podporují vysokou produktivitu, zdravé pracovní vztahy a dlouhodobé kariérní uspokojení pro všechny zaměstnance.
+
+### Psychologie zdraví
+
+**Psychologie zdraví** se zabývá studiem toho, jak různé psychologické, behaviorální a sociální faktory, včetně stresu, ovlivňují lidské zdraví a nemoci. Cílem této disciplíny je identifikovat faktory, které mohou negativně působit na zdraví, a současně zkoumat a navrhovat efektivní strategie prevence a intervence. Psychologie zdraví se soustředí také na podporu zdravých návyků a životního stylu, které mohou snižovat riziko onemocnění. Zkoumá způsoby, jak mohou jednotlivci změnit své chování k udržení nebo zlepšení jejich zdraví, s důrazem na preventivní opatření, která minimalizují zdravotní rizika a podporují dlouhodobé zdraví a pohodu.
+
+### Psychoterapie
+
+**Psychoterapie**, někdy také „léčba slovem“, se využívá k minimalizaci nebo úplnému odstranění symptomů, které brání člověku žít zdravý a plnohodnotný život. Terapeutický proces zahrnuje rozhovory mezi terapeutem a klientem, kde se identifikují problematické oblasti a hledají způsoby, jak je řešit. Existuje mnoho různých psychoterapeutických směrů, které se liší svým přístupem a technikami. Mezi strukturovanější směry patří například **kognitivně-behaviorální terapie (KBT)**, která se zaměřuje na změnu negativních myšlenkových vzorců a chování, role terapeuta je více autoritativní. Na druhou stranu existují i volnější přístupy, jako je **psychodynamická terapie**, která se soustředí na odhalování nevědomých procesů a raných životních zkušeností, nebo **humanistické směry**, které kladou důraz na osobní rozvoj a sebeaktualizaci. V humanistických směrech je terapeut vnímaný spíše rovnocenně než autoritativně. Každý směr přináší unikátní pohled na způsob, jak zlepšit duševní zdraví a kvalitu života jednotlivce.
 
 ## Psychologické přístupy
 
