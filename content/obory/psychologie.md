@@ -1,6 +1,7 @@
 ---
 title: "Psychologie"
-tags: ["Psychologie"]
+tags:
+  - "Psychologie"
 params:
   author: "Nikita Rjaško"
 ---

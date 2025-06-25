@@ -2,4 +2,4 @@
 title: "Obory"
 ---
 
-Skibi
+Pokud chcete přidat obor a hledáte šablonu, [klikněte tady](/obory/sablona)
