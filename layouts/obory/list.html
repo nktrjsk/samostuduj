@@ -2,6 +2,10 @@
 
 <h1>Obory</h1>
 
+{{ .Content }}
+
+<hr>
+
 {{ range .Pages }}
   <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
   <p>{{ .Summary }}</p>
