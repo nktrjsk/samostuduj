@@ -126,6 +126,11 @@ input {
 
 }
 
+#newsletter iframe {
+  width: min(480px, 100%);
+  height: 150px;
+}
+
 @media screen and (min-width: 1280px) {
   nav {
     display: flex;
