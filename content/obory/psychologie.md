@@ -8,6 +8,8 @@ params:
 
 # !! Probíhá práce na stránce
 
+> **Upozornění:** Při vytváření článku byla použita umělá inteligence (AI).
+
 **Psychologie** je věda, která se zabývá studiem myšlení, chování a emocí lidí a skupin. Snaží se nejen popsat a vysvětlit různé psychické jevy, ale taky je předvídat a ovlivňovat. Psychologové používají k těmto účelům různé teorie a výzkumné metody, jako jsou pozorování, experimenty, dotazníky a/nebo rozhovory. Tím získávají hlubší pochopení lidské psychiky a vytvoří podklady pro praktické aplikace.
 
 Psychologie se často propojuje s dalšími vědními obory, jako jsou:
@@ -20,13 +22,17 @@ Psychologie se často propojuje s dalšími vědními obory, jako jsou:
 
 ## Praktická využití
 
-Psychologii lze využít jak v každodenním životě, tak i ve spoustě specializovaných odvětvích. V každodenním životě pomůže se zvládáním stresu, pomozuměním sebe sama a ostatním, řešením konfliktů a komunikaci obecně, nebo třeba pro rozpoznání manipulace a obrana před ní. Lze ji využít např. v HR, marketingu, koučování a jiném poradenství, v obchodnictví nebo vzdělávání.
+Psychologii lze využít jak v každodenním životě, tak i ve spoustě specializovaných odvětvích. V každodenním životě pomůže se zvládáním stresu, porozuměním sebe sama a ostatním, řešením konfliktů a komunikaci obecně, nebo třeba pro rozpoznání manipulace a obrana před ní. Lze ji využít např. v HR, marketingu, koučování a jiném poradenství, v obchodnictví nebo vzdělávání.
 
 ## Mýty v psychologii
 
 ### Pokud budu umět psychologii, budu umět vyřešit všechny svoje psychické problémy
 
-Tak jednoduché to bohužel není. Psychické problémy se adresují těžko, kor sama u sebe. I psychologové dochází za svými vlastními psychology. Na druhou stranu, psychologie může poskytnout dobré nástroje, pomocí kterých si problémů všímat a řešit je. Neměla by to ale být jediná motivace, protože je snadno pomíjivá a zároveň ne nutně dosažitelná. Člověk by měl mít pro psychologii nejlépe vnitřní motivaci, protože jde o náročný obor, který obnáší i následné celoživotní vzdělávání. 
+Tak jednoduché to bohužel není. Psychické problémy se adresují těžko, kor sama u sebe. I psychologové mají své vlastní problémy, dochází za svými vlastními psychoterapeuty. Na druhou stranu, psychologie může poskytnout dobré nástroje, pomocí kterých si problémů všímat a řešit je. Neměla by to ale být jediná motivace, protože je snadno pomíjivá a zároveň ne nutně dosažitelná. Člověk by měl mít pro psychologii nejlépe vnitřní motivaci, protože jde o náročný obor, který obnáší i následné celoživotní vzdělávání.
+
+### Všichni psychologové jsou psychoterapeuti apod.
+
+Psychologů je celá řada, vizte další sekci, psychoterapeuti jsou jen jedna ze specializací. Totéž platí i pro ostatní generalizace, tzn. že třeba klinický psycholog nemusí nutně vědět, jak organizovat firmu, stejně tak psycholog práce nemusí vědět, jak se specificky projevují deprese.
 
 ## Dělení psychologie
 
@@ -67,7 +73,7 @@ V **druhé polovině 20. století** ale začali behaviorismus nahrazovat jiné, 
 
 ### Biologická psychologie
 
-**Biologická psychologie**, nebo také **psychobiologie**, spojuje psychologické poznatky s biologií. Zkoumá vliv biologických faktorů , např. endokrinního a nervového systému, na psychiku. Je pro ni specifický směr „redukcionismus“, tj. snaha vysvětlit psychologické jevy jen pomocí biologie.
+**Biologická psychologie**, nebo také **psychobiologie**, spojuje psychologické poznatky s biologií. Zkoumá vliv biologických faktorů, např. endokrinního a nervového systému, na psychiku. Je pro ni specifický směr biologického redukcionismu, tj. snaha vysvětlit psychologické jevy jen pomocí biologie.
 
 ### Psychopatologie
 
@@ -81,7 +87,7 @@ V **druhé polovině 20. století** ale začali behaviorismus nahrazovat jiné, 
 
 ### Pedagogická psychologie
 
-**Pedagogická psychologie** se věnuje zkoumání procesů učení a toho, jaký vliv na ně má různé prostředí, včetně školního i domácího. Tento obor zkoumá, jak se lidé učí, jaká je role motivace a jak individuální rozdíly ovlivňují způsob, jakým lidé získávají nové znalosti a dovednosti. Pedagogická psychologie se zabývá vývojem efektivních metod výuky, které podporují optimální učení. Vytváří a zdokonaluje testy a hodnocení, které pomáhají učitelům objektivně měřit znalosti a schopnosti studentů, přičemž zohledňuje jejich individuální potřeby a charakteristiky
+**Pedagogická psychologie** se věnuje zkoumání procesů učení a toho, jaký vliv na ně má různé prostředí, včetně školního i domácího. Tento obor zkoumá, jak se lidé učí, jaká je role motivace a jak individuální rozdíly ovlivňují způsob, jakým lidé získávají nové znalosti a dovednosti. Zabývá se vývojem efektivních metod výuky, které podporují optimální učení. Vytváří a zdokonaluje testy a hodnocení, které pomáhají učitelům objektivně měřit znalosti a schopnosti studentů, přičemž zohledňuje jejich individuální potřeby a charakteristiky.
 ### Školní psychologie
 
 **Školní psychologie** se zaměřuje na poskytování podpory studentům a řešení problémů souvisejících se vzděláváním v rámci školního prostředí. Tento obor zahrnuje práci s jednotlivci i skupinami žáků s cílem podpořit jejich emocionální, sociální a akademickou pohodu. Školní psychologové řeší problémy s motivací žáků ke studiu. Rovněž hrají klíčovou roli při začleňování žáků s individuálními potřebami, jako jsou děti se speciálními vzdělávacími potřebami nebo nadaní studenti, do běžného školního prostředí. Kromě toho poskytují poradenství a podporu pro učitele a rodiče, aby společně vytvářeli efektivní a podpůrné prostředí, které podporuje optimální rozvoj každého žáka.
@@ -104,11 +110,60 @@ V **druhé polovině 20. století** ale začali behaviorismus nahrazovat jiné, 
 
 ## Psychologické přístupy
 
-TBD
+### Biologický přístup
 
-## Psychologické školy
+### Psychodynamický přístup
 
-TBD
+### Behavioristický přístup
+
+### Subjektivistický přístup
+
+### Kognitivní přístup
+
+## Psychologické směry
+
+V psychologii se za celou její historii střídaly různé dominantní směry, viz historie. Zde je jejich podrobnější přehled.
+
+### Psychodynamické směry
+
+**Psychodynamické směry** rozvíjeli zejména Freudovi žáci z jeho původní teorie, **psychoanalýzy**. Mezi osobnosti rozvíjející psychodynamické teorie patří **C. G. Jung**, **Alfred Adler** nebo **Karen Horneyová**.
+
+**Carl Gustav Jung** byl švýcarský psycholog a psychiatr, který je známý především pro rozvoj **analytické psychologie**. Na rozdíl od Sigmunda Freuda, který se převážně soustředil na vliv raného dětství na psychiku, Jung kladl větší důraz na druhou polovinu života. Tvrdil, že významné psychologické změny a rozvoj sebeuvědomění často začínají ve středním věku (35–40 let). Jungova práce je často kritizována pro její nesystematičnost a pro důraz, který kladl na víru a mystické aspekty psychiky. Navzdory těmto kritikám zůstává Jungova teorie stále relevantní a inspirativní pro moderní psychologii i různé obory, jako je například umění, literatura či religionistika.
+
+**Alfred Adler** rozvinul **individuální psychologii**, která se od Freudovy psychoanalýzy odklonila v několika klíčových aspektech. Místo sexuálního pudu považoval Adler za hlavní motivátor lidského chování potřebu sebeuplatnění, což znamená snahu začlenit se do společnosti a najít v ní své místo. Adlerova teorie se zaměřovala na tři základní principy:
+
+1. Individuálnost: Člověk je vnímaný jako jedinečná, nedělitelná jednotka. Každý člověk má své individuální motivace a cíle, které lze pochopit pouze v kontextu jeho života jako celku.
+2. Cílevědomost: Chování člověka má vždy nějaký účel, i když nemusí být zřejmý ani okolí, ani samotnému jedinci. Lidé se snaží dosáhnout svých osobních cílů, které mohou zahrnovat touhu po uznání, úspěchu nebo harmonii.
+3. Sounáležitost: Každý člověk má přirozenou touhu po sounáležitosti a pocitu přijetí. Lidé se snaží zapadnout do společnosti a nalézt své místo v širším sociálním kontextu.
+
+Mezi Adlerova klíčová témata patřily komplexy méněcennosti a nadřazenosti. Komplex méněcennosti popisuje pocit nedostatečnosti, který může vést jednotlivce k tomu, aby se neustále snažili zlepšovat a dosahovat cílů. Na druhou stranu komplex nadřazenosti je snaha zakrývat vlastní pocity méněcennosti prostřednictvím přeceňování vlastních schopností nebo snahy ovládat ostatní. Adler věřil, že překonání těchto komplexů je klíčem k dosažení duševní pohody a úspěšného začlenění do společnosti.
+
+### Behavioristické směry
+
+Behaviorismus vznikl jako „vědecká“ opozice k „nevědecké“ metodě introspekce, kterou používal Wilhelm Wundt ve své první psychologické laboratoři. Cíl behaviorismu byl přinést objektivní výsledky, které introspekce nemohla zaručit. Behavioristé se domnívali, že chování je jediná relevantní metrika, kterou má smysl zkoumat, a zpočátku nevěnovali pozornost kognitivním procesům, které považovali za nedostatečně empiricky ověřitelné.
+
+Hlavními představiteli behaviorismu byli **John B. Watson** a **B. F. Skinner**.
+
+- **John B. Watson** se považuje za zakladatele behaviorismu. Zdůrazňoval environmentální determinismus, tedy že chování je utvářeno okolním prostředím. Je známý svým výrokem: _„Dejte mi na výchovu tucet zdravých dětí a já vám zaručím, že z každého z nich vychovám specialistu, jakého náhodně zvolím – lékaře, právníka, umělce, obchodníka, dokonce i žebráka, zloděje – bez ohledu na jeho talent, sklony i bez ohledu na vlastnosti jeho předků,”_ což ilustruje jeho přesvědčení o všemocnosti výchovy a prostředí.
+- **B. F. Skinner** rozvinul behaviorismus dále pomocí konceptu **operantního podmiňování**. Zatímco Watson se zaměřoval více na **klasické podmiňování**, Skinner se soustředil na to, jak následky chování ovlivňují jeho pravděpodobnost v budoucnosti. Jeho práce na pozitivním a negativním posilování se stala základem behaviorální terapie a vzdělávacích metod.
+
+Později se vyvinul **neobehaviorismus** jako reakce na klasický behaviorismus, aby začlenil i některé kognitivní a psychologické procesy, které byly původně opomíjeny. Neobehavioristé jako **Clark L. Hull** a **Edward C. Tolman** se snažili propojit chování s fyziologickými a mentálními procesy, čímž posunuli behaviorismus směrem k podrobnějšímu chápání vnitřní motivace a mapování mentálních procesů ve vztahu k pozorovatelnému chování.
+
+Behaviorismus a jeho následné odnože, včetně neobehaviorismu, byly klíčové pro rozvoj moderní psychologie. Přinesly důraz na empirii a objektivitu, což je činilo přitažlivými ve vědeckém kontextu. I po kritice za ignorování vnitřních mentálních procesů položily základy pro další výzkumy a aplikace, včetně vzniku kognitivní psychologie, která tyto aspekty integrovala.
+
+### Humanistické směry
+
+**Humanistická psychologie**, často označovaná jako **třetí síla v psychologii**, vznikla jako alternativa k psychoanalýze a behaviorismu ve 20. století. Tento směr je pravděpodobně nejméně teoreticky strukturovaný ze všech zmíněných přístupů, což je zároveň jedním z jeho charakteristických rysů. Na rozdíl od jiných psychologických směrů, které se snaží člověka "rozebrat" na jednotlivé složky a procesy, humanistická psychologie se zaměřuje na celostní přístup k člověku.
+
+Hlavními představiteli humanistického směru jsou **Carl R. Rogers** a **Abraham Maslow**, kteří měli významný vliv na jeho vývoj a popularizaci. **Carl R. Rogers** je známý pro svůj přístup zaměřený na klienta, který klade důraz na empatii a podporu vlastního růstu klienta. **Abraham Maslow** je nejvíce známý svou teorií hierarchie potřeb, která vrcholí seberealizací jako nejvyšší formou lidského rozvoje.
+
+Humanistická psychologie přistupuje k člověku jako k jednotce, která již obsahuje všechny nezbytné schopnosti a prostředky pro svůj rozvoj a naplnění. Snaží se jednotlivce pochopit a podpořit jejich osobní růst a seberealizaci. Používá k tomu i metody, které někteří kritizují jako nepřesné a nevědecké. Tyto metody ale zdůrazňují důležitost subjektivní zkušenosti a nejen chemické či behaviorální analýzy. Klade důraz na individuální svobodu, kreativitu a posílení potenciálu člověka, což přispělo k jeho vlivu i mimo tradiční psychologii, například v oblasti vzdělávání nebo managementu.
+
+### Kognitivní směry
+
+### Gestalt (celostní) směry
+
+
 
 ## Výzkum 
 
@@ -122,8 +177,16 @@ TBD
 
 - [CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6) (v angličtině) – videokurz o 40 dílech
 - https://www.studium-psychologie.cz/ – krátké články o hlavních oborech psychologie
+- [Psychologický podcast](https://ceskepodcasty.cz/podcast/psychologicky-podcast)
 
 ### Literatura
 
+- Jednoduše: Psychologie (kolektiv autorů, 160 s.)
 - Úvod do psychologie (Zdeněk Helus, 320 s.)
-- Psychologie, příručka pro studenty (Pavel Říčan, 286 s.) 
+- Psychologie, příručka pro studenty (Pavel Říčan, 286 s.)
+
+#### Odborná
+
+- Psychologie Atkinsonové a Hilgarda (Nolen-Hoeksema et al., 888 s.) – Rozsáhlý úvod jak do obecné psychologie, tak i speciálních oborů
+- Učebnice obecné psychologie (Alena Plháková, 472 s.)
+- Dějiny psychologie (Morton Hunt, 708 s.)
