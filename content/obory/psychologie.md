@@ -112,13 +112,23 @@ V **druhé polovině 20. století** ale začali behaviorismus nahrazovat jiné, 
 
 ### Biologický přístup
 
+Biologický přístup vykládá psychologické jevy z hlediska biologických procesů (například genetiky, mozkových struktur a chemických procesů), které mohou ovlivňovat chování a duševní procesy. Tento přístup často využívá technologie, jako je magnetická rezonance (MRI) nebo počítačová tomografie (CT), k tomu, aby zkoumal, jak různé části mozku přispívají k určitým funkcím a jak poruchy v biologických procesech mohou vést k psychologickým problémům.
+
 ### Psychodynamický přístup
+
+**Psychodynamický přístup** (také **psychoanalytický**), původně vyvinutý Sigmundem Freudem, vykládá psychologické jevy z hlediska nevědomých motivací a konfliktů, často vznikajících v dětství, které podle něho ovlivňují chování a myšlení. Tyto procesy a konflikty mohou být odhaleny prostřednictvím technik, jako je volná asociace a analýza snů.
 
 ### Behavioristický přístup
 
+**Behavioristický přístup** se zaměřuje na výklad pozorovatelného chování a odmítá spekulace o vnitřních duševních stavech. Zastánci tohoto přístupu, jako byl B.F. Skinner, se domnívají, že chování je naučeno prostřednictvím interakce s prostředím prostřednictvím procesů, jako je podmiňování. Důležité jsou experimenty a objektivní měření chování.
+
 ### Subjektivistický přístup
 
+**Subjektivistický přístup** vykládá psychologické jevy z hlediska individuální subjektivní reality. Tento přístup zkoumá osobní zkušenosti, pocity a interpretace světa jednotlivce. Hodnotí, jak lidé vnímají a vykládají svou vlastní realitu a jak tyto procesy ovlivňují jejich psychický stav a chování.
+
 ### Kognitivní přístup
+
+**Kognitivní přístup** vykládá psychologické jevy hlavně z hlediska kognitivních procesů a vnitřních schémat. Zaměřuje se na to, jak lidé zpracovávají informace, jak používají vědomosti k řešení problémů a jak si vytvářejí vzorce myšlení.
 
 ## Psychologické směry
 
