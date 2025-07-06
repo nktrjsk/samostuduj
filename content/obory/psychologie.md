@@ -6,8 +6,6 @@ params:
   author: "Nikita Rjaško"
 ---
 
-# !! Probíhá práce na stránce
-
 > **Upozornění:** Při vytváření článku byla použita umělá inteligence (AI).
 
 ## Úvod
