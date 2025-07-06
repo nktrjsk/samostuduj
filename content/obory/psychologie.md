@@ -10,6 +10,8 @@ params:
 
 > **Upozornění:** Při vytváření článku byla použita umělá inteligence (AI).
 
+## Úvod
+
 **Psychologie** je věda, která se zabývá studiem myšlení, chování a emocí lidí a skupin. Snaží se nejen popsat a vysvětlit různé psychické jevy, ale taky je předvídat a ovlivňovat. Psychologové používají k těmto účelům různé teorie a výzkumné metody, jako jsou pozorování, experimenty, dotazníky a/nebo rozhovory. Tím získávají hlubší pochopení lidské psychiky a vytvoří podklady pro praktické aplikace.
 
 Psychologie se často propojuje s dalšími vědními obory, jako jsou:
@@ -132,7 +134,7 @@ Biologický přístup vykládá psychologické jevy z hlediska biologických pro
 
 ## Psychologické směry
 
-V psychologii se za celou její historii střídaly různé dominantní směry, viz historie. Zde je jejich podrobnější přehled.
+V psychologii se za celou její historii střídaly různé dominantní směry, viz [historie](#historie-psychologie). Zde je jejich podrobnější přehled.
 
 ### Psychodynamické směry
 
@@ -171,13 +173,33 @@ Humanistická psychologie přistupuje k člověku jako k jednotce, která již o
 
 ### Kognitivní směry
 
+**Kognitivní psychologie** se zabývá studiem mentálních procesů, jako jsou vnímání, paměť, myšlení a rozhodování. Tento směr vznikl jako reakce na omezení behaviorismu při pochopení komplexních lidských procesů na základě pozorovatelného chování. Kognitivní psychologie klade důraz na role vnitřních procesů a jak zpracováváme informace.
+
+Hlavními představiteli kognitivního směru jsou **Jean Piaget**, **Ulric Neisser** a **Aaron T. Beck**. **Jean Piaget** je známý pro svou teorii kognitivního vývoje, která zkoumá, jak děti rozvíjejí intelektuální schopnosti. **Ulric Neisser** je často označován jako otec kognitivní psychologie, protože přinesl komplexnější pohled na vnímání a paměť. **Aaron T. Beck** stojí za vývojem kognitivně-behaviorální terapie, která se zaměřuje na změnu maladaptivních myšlenkových vzorců.
+
+Kognitivní psychologie využívá experimentální metody ke studiu mentálních procesů a výzkumy v této oblasti významně přispěly k porozumění tomu, jak lidé vnímají svět kolem sebe a jak jejich myšlení ovlivňuje chování. Tyto principy jsou aplikovány v oblasti vzdělávání, terapie a při rozvoji umělé inteligence, ale také ve výzkumu lidské paměti a učení.
+
 ### Gestalt (celostní) směry
 
+**Gestalt psychologie** vznikla na začátku 20. století a zaměřila se na studium vnímání a myšlení jako celostních procesů. Tento směr poukazuje na to, že podstatu psychologických jevů nelze pochopit redukcí na elementární části, ale je třeba je chápat jako uspořádaný celek.
 
+Hlavními představiteli gestalt psychologie jsou **Max Wertheimer**, **Kurt Koffka** a **Wolfgang Köhler**. **Max Wertheimer** je známý pro své studium fenoménu "phi", který zkoumá iluzi pohybu. **Kurt Koffka** rozšířil principy gestalt psychologie a zdůraznil jejich význam pro psychologii vývoje a učení. **Wolfgang Köhler** přispěl k rozvoji teorie vhledového učení a aplikaci gestalt principů v kognitivní oblasti.
 
-## Výzkum 
+Gestalt psychologie klade důraz na přirozenou tendenci lidského mozku k uspořádání vjemů do smysluplných celků a vzorců. Vnímání, řešení problémů a kreativita jsou chápány jako integrované procesy. Tyto principy našly uplatnění v různých oblastech, včetně designu, umění a terapie, kde se využívají k podpoře celostního pohledu na zážitky a situace.
 
-TBD
+## Výzkum
+
+Výzkum je pro psychologii velmi důležitý, protože **potřebujeme potvrzení hypotéz (předpokladů), které v rámci teorií vznikají**. Hypotéza sice může odpovídat teorii, pokud se ale výsledky z praxe od ní liší, má nulovou predikční hodnotu. Je proto důležité vědět, které hypotézy platí, případně do jaké míry, aby mohly sloužit jako základ pro další vědeckou činnost. K tomu slouží spoustu postupů a technik, pomocí kterých lze zjistit, jestli je hypotéza správná.
+
+Mezi nejdůležitější metody patří **experiment**, **dotazníky**, **pozorování** a **rozhovory**, dále se používají **korelační studie**, **případové studie** (**kazuistiky**) a **longitudinální studie**:
+
+- **Experimentální metoda** – Při dodržování metodologických zásad a dobré výstavbě (randomizované zaslepené studie atd.) se jedná o nejpřesnější výzkumnou metodu, která není až tak náchylná na lidské zkreslení. Někdy je ale její použití neefektivní nebo neetické.
+- **Dotazníky** – Jde o kvantitativní metodu sběru dat, kdy účastníci vyplňují připravené otázky. Lze je snadno distribuovat a zpracovat, ale kvalita dat může být omezena přesností a upřímností odpovědí.
+- **Pozorování** – Tato metoda zahrnuje systematické sledování subjektů v přirozeném prostředí nebo strukturovaných situacích. Poskytuje cenné kvalitativní údaje, ale může být časově náročná a závisí na schopnostech pozorovatele minimalizovat zkreslení.
+- **Rozhovory** – Umožňují hloubkové zkoumání názorů a pocitů účastníků skrze strukturované či nestrukturované formy. Jsou cenné pro získání hlubokého pochopení, ale mohou být ovlivněny vztahem mezi tazatelem a respondentem.
+- **Korelační studie** – Tyto studie zkoumají vztahy mezi dvěma nebo více proměnnými, aniž by určovaly příčinnost. Jsou užitečné pro zjišťování existujících vazeb, ale nemohou potvrdit, co je příčina a co následek.
+- **Případové studie (kazuistiky)** – Detailní analýza jednoho případu (nebo malého počtu případů), která umožňuje hluboké pochopení komplexních jevů. Ačkoliv neposkytují obecné výsledky, mohou generovat hypotézy pro další výzkum.
+- **Longitudinální studie** – Zkoumají stejné subjekty po delší časové období, což umožňuje sledovat změny a vývoj v čase. Jsou silným nástrojem pro pochopení dynamiky proměnných, ale mohou být nákladné a náročné na časovou kontinuitu a udržení účastníků v průběhu studie. Využívají se převážně ve vývojové psychologii.
 
 ---
 
