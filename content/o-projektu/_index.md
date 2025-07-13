@@ -12,9 +12,9 @@ Zatím jenom já, [Nikita](https://nktrjsk.cz). Projekt jsem založila proto, ž
 ## Cíle
 
 
-- Poskytovat kvalitní vzdělání zdarma a pro každého – Umožnit každému objevovat svůj potenciál bez finančních bariér. Flexibilní struktura výuky se přizpůsobí individuálním potřebám a připraví na „skutečný život“.
-- Vytvářet a šířit otevřené vzdělávací materiály – Veškeré materiály budou licencované tak, aby je kdokoliv mohl číst, upravovat a sdílet. Otevřenost podporuje kreativitu, diskuzi i zdravý konflikt, který přináší nové nápady.
-- Budovat projekt tak, aby mohl žít sám – Projekt stavíme tak, aby fungoval autonomně. Každý, kdo sdílí naše hodnoty, se může do vedení nebo rozvoje zapojit. Nejde o zisk ani moc, ale o šíření povědomí o sebeřízeném učení a zajištění stálého přístupu k materiálům.
+- **Poskytovat kvalitní vzdělání zdarma a pro každého** – Umožnit každému objevovat svůj potenciál bez finančních bariér. Flexibilní struktura výuky se přizpůsobí individuálním potřebám a připraví na „skutečný život“.
+- **Vytvářet a šířit otevřené vzdělávací materiály** – Veškeré materiály budou licencované tak, aby je kdokoliv mohl číst, upravovat a sdílet. Otevřenost podporuje kreativitu, diskuzi i zdravý konflikt, který přináší nové nápady.
+- **Budovat projekt tak, aby mohl žít sám** – Projekt stavíme tak, aby fungoval autonomně. Každý, kdo sdílí naše hodnoty, se může do vedení nebo rozvoje zapojit. Nejde o zisk ani moc, ale o šíření povědomí o sebeřízeném učení a zajištění stálého přístupu k materiálům.
 
 ## Hodnoty
 
@@ -22,7 +22,7 @@ Zatím jenom já, [Nikita](https://nktrjsk.cz). Projekt jsem založila proto, ž
 - **Soukromí** – Soukromí by měl být základ. Chrání obě strany a respektuje jejich hranice. Pokud o sobě nechtějí sdílet více informací, než potřebují, nemusí.
 - **Transparentnost** – Pokud člověk dělá věci upřímně, není potřeba nic skrývat.
 - **Spolupráce** – Jeden člověk na všechno nestačí, proto je spolupráce potřebná.
-- **Inovace** – Svět se neustále vyvíjí. Proto je potřeba se neustále zlepšovat, a přesně to děláme.
+- **Inovace** – Svět se neustále vyvíjí. Proto je potřeba neustále aktualizovat a zlepšovat obsah, aby odpovídal dnešnímu světu, ne světu našich rodičů aj.
 
 ## Výzva k akci
 
